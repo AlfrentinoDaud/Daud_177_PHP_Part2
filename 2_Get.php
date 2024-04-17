@@ -1,9 +1,9 @@
 <html>
     <head>
-        <title>Latihan POST</title>
+        <title>Latihan GET</title>
     </head>
     <body>
-        <form method="POST" action="postAct.php">
+        <form method="GET" action="getAct.php">
             <table width="400" align="center" cellpadding="2" cellspacing="2">
                 <tr>
                     <td width="130">Nama</td>
